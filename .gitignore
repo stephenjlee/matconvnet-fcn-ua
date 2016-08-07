@@ -1,0 +1,14 @@
+.gitignore~
+local/
+data/**/*.zip
+data/**/*.xlsx
+data/**/*.jpg
+data/**/*.tiff
+data/**/*.txt
+data/**/*.png
+data/**/net-train.pdf
+data/**/imagenet-vgg-f.mat
+data/fcn8s-satellite/*.mat
+data/modelzoo/satellite_UgandaSST_test/
+matconvnet/imagenet-vgg-f.mat
+data/models/imagenet-vgg-verydeep-16.mat
